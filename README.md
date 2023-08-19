@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ekaitzjv/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Ekaitzjv&show_icons=true&theme=radical" />
 </a>
+<br/>
 <a href="https://github.com/Ekaitzjv/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaitzjv&show_icons=true&theme=radical" />
 </a>
