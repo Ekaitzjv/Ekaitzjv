@@ -1,4 +1,4 @@
-# Ekaitz Jiménez
+# 👨‍💻 Ekaitz Jiménez
 
 **`Digital Craftsman (Developer/Photographer/IT Technician)`**
 
