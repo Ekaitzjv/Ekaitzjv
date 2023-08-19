@@ -2,6 +2,9 @@
 
 **`Digital Craftsman (Developer/Photographer/IT Technician)`**
 
+I'm an indie full-stack developer and computer technician looking to solve real-life problems through code. 
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -13,6 +16,7 @@
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 
+---
 
 ### 📊 Stats
 
