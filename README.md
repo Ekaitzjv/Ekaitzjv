@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://github.com/Ekaitzjv/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaitzjv&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaitzjv" />
 </a>
