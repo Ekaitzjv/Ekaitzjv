@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ekaitzjv/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Ekaitzjv" />
 </a>
-<br/>
+
+
+### Languages and Tools
+
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicon/icons/php/php.svg">
 <a href="https://github.com/Ekaitzjv/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaitzjv" />
 </a>
