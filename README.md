@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/php@0.0.0/php_32x32.png">
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/javascript@0.0.0/javascript_32x32.png">
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/html@0.0.0/html_32x32.png">
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/css@0.0.0/css_32x32.png">
+
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/php@0.0.0/php_32x32.png">
+<br/>
 
 <a href="https://github.com/Ekaitzjv/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaitzjv" />
