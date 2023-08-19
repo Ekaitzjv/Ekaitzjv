@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ekaitzjv)](https://github.com/Ekaitzjv/github-readme-stats&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ekaitzjv&show_icons=true&theme=radical)
